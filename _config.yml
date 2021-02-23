@@ -10,3 +10,11 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+- title: Page 1
+  url: /page-1
+- title: Example
+  url: /example
+  children:
+    - title: Page 2
+      url: /example/page-2
