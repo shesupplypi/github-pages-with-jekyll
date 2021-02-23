@@ -1,6 +1,7 @@
 title: Annalises blogggg
 author: annalise
 email: your-email@domain.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
 A super cool blog
 
